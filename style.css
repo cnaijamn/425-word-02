@@ -1,3 +1,8 @@
+.head {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
 .container {
   padding: 5px;
 }
